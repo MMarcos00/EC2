@@ -1,0 +1,14 @@
+C:\Users\IBI\Documents\Ejercicio_en_Clase\EC_Metodos_Propiedades\bin\Debug\net8.0\EC_Metodos_Propiedades.exe
+C:\Users\IBI\Documents\Ejercicio_en_Clase\EC_Metodos_Propiedades\bin\Debug\net8.0\EC_Metodos_Propiedades.deps.json
+C:\Users\IBI\Documents\Ejercicio_en_Clase\EC_Metodos_Propiedades\bin\Debug\net8.0\EC_Metodos_Propiedades.runtimeconfig.json
+C:\Users\IBI\Documents\Ejercicio_en_Clase\EC_Metodos_Propiedades\bin\Debug\net8.0\EC_Metodos_Propiedades.dll
+C:\Users\IBI\Documents\Ejercicio_en_Clase\EC_Metodos_Propiedades\bin\Debug\net8.0\EC_Metodos_Propiedades.pdb
+C:\Users\IBI\Documents\Ejercicio_en_Clase\EC_Metodos_Propiedades\obj\Debug\net8.0\EC_Metodos_Propiedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBI\Documents\Ejercicio_en_Clase\EC_Metodos_Propiedades\obj\Debug\net8.0\EC_Metodos_Propiedades.AssemblyInfoInputs.cache
+C:\Users\IBI\Documents\Ejercicio_en_Clase\EC_Metodos_Propiedades\obj\Debug\net8.0\EC_Metodos_Propiedades.AssemblyInfo.cs
+C:\Users\IBI\Documents\Ejercicio_en_Clase\EC_Metodos_Propiedades\obj\Debug\net8.0\EC_Metodos_Propiedades.csproj.CoreCompileInputs.cache
+C:\Users\IBI\Documents\Ejercicio_en_Clase\EC_Metodos_Propiedades\obj\Debug\net8.0\EC_Metodos_Propiedades.dll
+C:\Users\IBI\Documents\Ejercicio_en_Clase\EC_Metodos_Propiedades\obj\Debug\net8.0\refint\EC_Metodos_Propiedades.dll
+C:\Users\IBI\Documents\Ejercicio_en_Clase\EC_Metodos_Propiedades\obj\Debug\net8.0\EC_Metodos_Propiedades.pdb
+C:\Users\IBI\Documents\Ejercicio_en_Clase\EC_Metodos_Propiedades\obj\Debug\net8.0\EC_Metodos_Propiedades.genruntimeconfig.cache
+C:\Users\IBI\Documents\Ejercicio_en_Clase\EC_Metodos_Propiedades\obj\Debug\net8.0\ref\EC_Metodos_Propiedades.dll

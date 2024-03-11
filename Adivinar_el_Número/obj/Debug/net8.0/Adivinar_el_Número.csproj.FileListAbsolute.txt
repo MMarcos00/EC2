@@ -1,0 +1,14 @@
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Adivinar_el_Número\bin\Debug\net8.0\Adivinar_el_Número.exe
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Adivinar_el_Número\bin\Debug\net8.0\Adivinar_el_Número.deps.json
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Adivinar_el_Número\bin\Debug\net8.0\Adivinar_el_Número.runtimeconfig.json
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Adivinar_el_Número\bin\Debug\net8.0\Adivinar_el_Número.dll
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Adivinar_el_Número\bin\Debug\net8.0\Adivinar_el_Número.pdb
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Adivinar_el_Número\obj\Debug\net8.0\Adivinar_el_Número.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Adivinar_el_Número\obj\Debug\net8.0\Adivinar_el_Número.AssemblyInfoInputs.cache
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Adivinar_el_Número\obj\Debug\net8.0\Adivinar_el_Número.AssemblyInfo.cs
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Adivinar_el_Número\obj\Debug\net8.0\Adivinar_el_Número.csproj.CoreCompileInputs.cache
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Adivinar_el_Número\obj\Debug\net8.0\Adivinar_el_Número.dll
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Adivinar_el_Número\obj\Debug\net8.0\refint\Adivinar_el_Número.dll
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Adivinar_el_Número\obj\Debug\net8.0\Adivinar_el_Número.pdb
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Adivinar_el_Número\obj\Debug\net8.0\Adivinar_el_Número.genruntimeconfig.cache
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Adivinar_el_Número\obj\Debug\net8.0\ref\Adivinar_el_Número.dll

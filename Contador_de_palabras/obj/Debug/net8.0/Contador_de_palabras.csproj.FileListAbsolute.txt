@@ -1,0 +1,14 @@
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Contador_de_palabras\bin\Debug\net8.0\Contador_de_palabras.exe
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Contador_de_palabras\bin\Debug\net8.0\Contador_de_palabras.deps.json
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Contador_de_palabras\bin\Debug\net8.0\Contador_de_palabras.runtimeconfig.json
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Contador_de_palabras\bin\Debug\net8.0\Contador_de_palabras.dll
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Contador_de_palabras\bin\Debug\net8.0\Contador_de_palabras.pdb
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Contador_de_palabras\obj\Debug\net8.0\Contador_de_palabras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Contador_de_palabras\obj\Debug\net8.0\Contador_de_palabras.AssemblyInfoInputs.cache
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Contador_de_palabras\obj\Debug\net8.0\Contador_de_palabras.AssemblyInfo.cs
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Contador_de_palabras\obj\Debug\net8.0\Contador_de_palabras.csproj.CoreCompileInputs.cache
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Contador_de_palabras\obj\Debug\net8.0\Contador_de_palabras.dll
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Contador_de_palabras\obj\Debug\net8.0\refint\Contador_de_palabras.dll
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Contador_de_palabras\obj\Debug\net8.0\Contador_de_palabras.pdb
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Contador_de_palabras\obj\Debug\net8.0\Contador_de_palabras.genruntimeconfig.cache
+C:\Users\IBI\Documents\Ejercicio_en_Clase\Contador_de_palabras\obj\Debug\net8.0\ref\Contador_de_palabras.dll
